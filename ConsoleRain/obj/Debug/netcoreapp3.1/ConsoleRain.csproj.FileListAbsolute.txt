@@ -1,0 +1,13 @@
+C:\Users\Patrick\source\repos\ConsoleRain\ConsoleRain\bin\Debug\netcoreapp3.1\ConsoleRain.exe
+C:\Users\Patrick\source\repos\ConsoleRain\ConsoleRain\bin\Debug\netcoreapp3.1\ConsoleRain.deps.json
+C:\Users\Patrick\source\repos\ConsoleRain\ConsoleRain\bin\Debug\netcoreapp3.1\ConsoleRain.runtimeconfig.json
+C:\Users\Patrick\source\repos\ConsoleRain\ConsoleRain\bin\Debug\netcoreapp3.1\ConsoleRain.runtimeconfig.dev.json
+C:\Users\Patrick\source\repos\ConsoleRain\ConsoleRain\bin\Debug\netcoreapp3.1\ConsoleRain.dll
+C:\Users\Patrick\source\repos\ConsoleRain\ConsoleRain\bin\Debug\netcoreapp3.1\ConsoleRain.pdb
+C:\Users\Patrick\source\repos\ConsoleRain\ConsoleRain\obj\Debug\netcoreapp3.1\ConsoleRain.csprojAssemblyReference.cache
+C:\Users\Patrick\source\repos\ConsoleRain\ConsoleRain\obj\Debug\netcoreapp3.1\ConsoleRain.AssemblyInfoInputs.cache
+C:\Users\Patrick\source\repos\ConsoleRain\ConsoleRain\obj\Debug\netcoreapp3.1\ConsoleRain.AssemblyInfo.cs
+C:\Users\Patrick\source\repos\ConsoleRain\ConsoleRain\obj\Debug\netcoreapp3.1\ConsoleRain.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\ConsoleRain\ConsoleRain\obj\Debug\netcoreapp3.1\ConsoleRain.dll
+C:\Users\Patrick\source\repos\ConsoleRain\ConsoleRain\obj\Debug\netcoreapp3.1\ConsoleRain.pdb
+C:\Users\Patrick\source\repos\ConsoleRain\ConsoleRain\obj\Debug\netcoreapp3.1\ConsoleRain.genruntimeconfig.cache
